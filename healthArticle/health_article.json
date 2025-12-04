@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "title": "Healthy Eating",
+      "description": "A balanced diet helps maintain your overall health and energy levels.",
+      "ways_to_achieve": [
+        "Eat fruits and vegetables daily",
+        "Drink at least 8 glasses of water",
+        "Reduce sugar and junk food intake"
+      ],
+      "benefits": [
+        "Improves digestion",
+        "Boosts immunity",
+        "Supports weight management"
+      ]
+    },
+
+    {
+      "title": "Regular Exercise",
+      "description": "Exercise helps improve your physical and mental well-being.",
+      "ways_to_achieve": [
+        "Do at least 30 minutes of physical activity daily",
+        "Try activities like walking, jogging, yoga, or sports",
+        "Take breaks from long sitting periods"
+      ],
+      "benefits": [
+        "Strengthens muscles and bones",
+        "Improves mood and reduces stress",
+        "Boosts cardiovascular health"
+      ]
+    }
+  ]
+}
